@@ -1,0 +1,12 @@
+# Ignore database volume data
+data/
+*.dblwr
+*.ibd
+*.pid
+*.sock
+*.err
+*.frm
+*.MYD
+*.MYI
+__pycache__/
+*.pyc
